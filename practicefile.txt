@@ -1,0 +1,4 @@
+<<<<<<< HEAD
+hi hello 
+=======
+>>>>>>> parent of 0eb7d1d ( I added my details)
