@@ -1,0 +1,23 @@
+ ### FASTQ
+- Number of reads: 1000
+- Are all reads of the same length?: No 
+- Quality encoding: Phred+33 / Phred+64 (delete as appropriate) this is phred+33 scoring method  
+
+### GTF/GFF
+- Number of genes:37184
+
+- Most exon-dense gene:Potra2n1c1.3:exon:300
+
+
+### BAM
+- Number of mapped reads: 51073157
+- % of properly paired reads: 95.3
+- Number of reference sequences:1601
+
+
+### VCF
+- Total variants:78358
+- Variants in Potra2n1c1:
+- SNPs / indels: 56197 and indels 22161
+
+# Extract reads mapping to a chr1:1-100000 : 12435
